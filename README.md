@@ -1,6 +1,57 @@
 # [Frontend Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j)
 by [Scrimba](https://v2.scrimba.com/home)
 
+## Making website interactive
+
+### *To-do List*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-todo-list) | [Scrim code 📝](https://v2.scrimba.com/s0uo04ro2j) | [Live site 📺](https://mendezpvi.github.io/fcp-todo-list/) |
+| --- | --- | --- |
+
+![To-do List](https://raw.githubusercontent.com/mendezpvi/fcp-todo-list/refs/heads/main/assets/screenshot/sample.gif)
+
+### *Unit Converter - Solo Project*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-unit-converter) | [Scrim code 📝](https://v2.scrimba.com/s0e7c04pl3) | [Live site 📺](https://mendezpvi.github.io/fcp-unit-converter/) |
+| --- | --- | --- |
+
+![Unit Converter](https://raw.githubusercontent.com/mendezpvi/fcp-unit-converter/refs/heads/main/assets/screenshot/sample.gif)
+
+### *Chrome Extension*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-chrome-extension) | [Scrim code 📝](https://v2.scrimba.com/s03nmhsii4) |
+| --- | --- |
+
+![Chrome Extension](https://raw.githubusercontent.com/mendezpvi/fcp-chrome-extension/refs/heads/main/screenshot/sample.gif)
+
+### *Password Generator - Solo Project*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-password-generator) | [Scrim code 📝](https://v2.scrimba.com/s05ub0p50h) | [Live site 📺](https://mendezpvi.github.io/fcp-password-generator/) |
+| --- | --- | --- |
+
+![Password Generator](https://raw.githubusercontent.com/mendezpvi/fcp-password-generator/refs/heads/main/assets/screenshot/sample.gif)
+
+### *Blackjack Game*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-blackjack-game) | [Scrim code 📝](https://v2.scrimba.com/s0af9rdnko) | [Live site 📺](https://mendezpvi.github.io/fcp-blackjack-game/) |
+| --- | --- | --- |
+
+![Blackjack Game](https://raw.githubusercontent.com/mendezpvi/fcp-blackjack-game/refs/heads/main/assets/screenshot/sample.gif)
+
+### *Basketball Scoreboard - Solo Project*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-basketball-scoreboard) | [Scrim code 📝](https://v2.scrimba.com/s07kg1un8r) | [Live site 📺](https://mendezpvi.github.io/fcp-basketball-scoreboard/) |
+| --- | --- | --- |
+
+![Basketball Scoreboard](https://raw.githubusercontent.com/mendezpvi/fcp-basketball-scoreboard/refs/heads/main/screenshot/sample.gif)
+
+### *Jump counter app*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-jump-counter-app) | [Scrim code 📝](https://v2.scrimba.com/s0enpe14p6) | [Live site 📺](https://mendezpvi.github.io/fcp-jump-counter-app/) |
+| --- | --- | --- |
+
+![Jump counter app](https://raw.githubusercontent.com/mendezpvi/fcp-jump-counter-app/refs/heads/main/screenshots/jump-counter-sample.gif)
+
 ## Web dev basics
 
 ### *Hometown Homepage - Solo Project*
