@@ -1,5 +1,14 @@
-# [Frontend Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j)
-by [Scrimba](https://v2.scrimba.com/home)
+# [Frontend Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j) - [Scrimba](https://v2.scrimba.com/courses)
+
+
+## Essential CSS concepts
+
+### *Oldagram - Solo Project*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-oldagram) | [Scrim code 📝](https://v2.scrimba.com/s0cviu1jfb) | [Live site 📺](https://mendezpvi.github.io/fcp-oldagram/) |
+| --- | --- | --- |
+
+![Oldagram](https://raw.githubusercontent.com/mendezpvi/fcp-oldagram/refs/heads/main/assets/screenshot/sample.gif)
 
 ## Making website interactive
 
