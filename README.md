@@ -3,6 +3,13 @@
 
 ## Essential CSS concepts
 
+### *Coworking Space Site*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-coworking-space-site) | [Scrim code 📝](https://v2.scrimba.com/s0m1nnnpes) | [Live site 📺](https://mendezpvi.github.io/fcp-coworking-space-site/) |
+| --- | --- | --- |
+
+![Coworking Space Site](https://raw.githubusercontent.com/mendezpvi/fcp-coworking-space-site/refs/heads/main/assets/screenshot/sample.gif)
+
 ### *Oldagram - Solo Project*
 
 | [Repository 🗃️](https://github.com/mendezpvi/fcp-oldagram) | [Scrim code 📝](https://v2.scrimba.com/s0cviu1jfb) | [Live site 📺](https://mendezpvi.github.io/fcp-oldagram/) |
