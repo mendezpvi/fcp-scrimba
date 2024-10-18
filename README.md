@@ -1,6 +1,15 @@
 # [Frontend Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j) - [Scrimba](https://v2.scrimba.com/courses)
 
 
+## Essential JavaScript concepts
+
+### *Annoying Consent Cookie*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-annoying-consent-cookie) | [Scrim code 📝](https://v2.scrimba.com/s0tns2i4lj) | [Live site 📺](https://mendezpvi.github.io/fcp-annoying-consent-cookie/) |
+| --- | --- | --- |
+
+![Annoying Consent Cookie](https://raw.githubusercontent.com/mendezpvi/fcp-annoying-consent-cookie/refs/heads/main/assets/screenshot/sample.gif)
+
 ## Essential CSS concepts
 
 ### *Coworking Space Site*
