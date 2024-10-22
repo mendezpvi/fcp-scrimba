@@ -3,6 +3,13 @@
 
 ## Essential JavaScript concepts
 
+### *Meme Picker*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-meme-picker) | [Scrim code 📝](https://v2.scrimba.com/s0nu96bnu7) | [Live site 📺](https://mendezpvi.github.io/fcp-meme-picker/) |
+| --- | --- | --- |
+
+![Meme Picker](https://raw.githubusercontent.com/mendezpvi/fcp-meme-picker/refs/heads/main/assets/screenshot/sample.gif)
+
 ### *Annoying Consent Cookie*
 
 | [Repository 🗃️](https://github.com/mendezpvi/fcp-annoying-consent-cookie) | [Scrim code 📝](https://v2.scrimba.com/s0tns2i4lj) | [Live site 📺](https://mendezpvi.github.io/fcp-annoying-consent-cookie/) |
