@@ -3,6 +3,13 @@
 
 ## Essential JavaScript concepts
 
+### *Twimba*
+
+| [Repository 🗃️](https://github.com/mendezpvi/fcp-twimba) | [Scrim code 📝](https://v2.scrimba.com/s06ak88cnn) | [Live site 📺](https://mendezpvi.github.io/fcp-twimba/) |
+| --- | --- | --- |
+
+![Twimba](https://raw.githubusercontent.com/mendezpvi/fcp-twimba/refs/heads/main/assets/screenshots/sample.gif)
+
 ### *Meme Picker*
 
 | [Repository 🗃️](https://github.com/mendezpvi/fcp-meme-picker) | [Scrim code 📝](https://v2.scrimba.com/s0nu96bnu7) | [Live site 📺](https://mendezpvi.github.io/fcp-meme-picker/) |
